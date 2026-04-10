@@ -410,7 +410,7 @@
     </choose>
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+    <layout  delimiter="," prefix="[" suffix="]">
       <text variable="citation-number"/>
     </layout>
   </citation>
